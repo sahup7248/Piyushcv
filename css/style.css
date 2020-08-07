@@ -88,6 +88,9 @@ margin: 100px 0;
   left: 250px;
   bottom: 300px;
 }
+.footer-logo{
+   margin: 10px 10px;
+}
 .contact-msg {
   width: 40%;
   margin: 40px auto 60px;
